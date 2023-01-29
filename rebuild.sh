@@ -1,0 +1,1 @@
+docker build -t megafauna . && docker-compose stop && docker-compose up -d
